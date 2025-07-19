@@ -1,0 +1,24 @@
+/* NotifyDriver - Aplicație Web pentru Gestionarea Notificărilor */
+/* Design modern, responsiv cu teme dark/light și animații */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* Tema Light */
+    --bg-primary: #ffffff;
+    --bg-secondary: #f8fafc;
+    --bg-card: #ffffff;
+    --text-primary: #1a202c;
+    --text-secondary: #4a5568;
+    --text-muted: #718096;
+    --border-color: #e2e8f0;
+    --accent-primary: #3182ce;
+    --accent-secondary: #63b3ed;
+    --success: #38a169;
+    --warning: #d69e2e;
+    --error: #e53e3e;
+    --info: #3182ce;
